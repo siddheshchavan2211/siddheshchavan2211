@@ -61,6 +61,4 @@ You can find my work on GitHub and reach out via the following channels:
 ![](https://github-contributor-stats.vercel.app/api?username=siddheshchavan2211&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siddheshchavan2211&icon=8&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
