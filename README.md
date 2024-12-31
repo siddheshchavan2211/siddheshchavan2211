@@ -25,7 +25,7 @@ I’m a passionate software developer focused on building scalable web applicati
 ### 📈 GitHub Stats:
 Here’s a quick overview of my GitHub activity, including my top repositories, contributions, and more:
 
-![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshchavan2211&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshchavan221&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
 
