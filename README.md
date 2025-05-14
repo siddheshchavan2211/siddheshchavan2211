@@ -3,7 +3,6 @@
 
 ---
 
-I’m a passionate software developer focused on building scalable web applications and exploring the latest technologies. Here’s a bit more about my development journey and the tools I use.
 
 ### 🛠 Technologies I work with:
 <p>
@@ -16,7 +15,6 @@ I’m a passionate software developer focused on building scalable web applicati
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -40,7 +38,7 @@ You can find my work on GitHub and reach out via the following channels:
 
 - **Frontend Development**: React.js, Redux, Bootstrap, HTML5, CSS3, JavaScript,Tailwindcss
 - **Backend Development**: Node.js, Express, MongoDB
-- **Version Control & DevOps**: Git, GitHub Actions, npm, Webpack
+- **Version Control & DevOps**: Git, npm, Webpack
 
 
 ---
@@ -57,8 +55,5 @@ You can find my work on GitHub and reach out via the following channels:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siddheshchavan2211&limit=5&theme=react&combine_all_yearly_contributions=true)
 
----
 
